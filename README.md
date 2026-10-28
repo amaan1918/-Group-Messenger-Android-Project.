@@ -13,6 +13,4 @@ This repository contains the source code and resources for a legacy Android Grou
 
 This project uses the older Eclipse/Ant Android project format. Opening it in a recent Android Studio release may require migration. The messaging implementation is intended for an Android emulator test environment; it is not a production internet messaging service.
 
-## Original project
 
-The initial files are being uploaded from the provided `Group Messanger Android Project.zip` archive.
