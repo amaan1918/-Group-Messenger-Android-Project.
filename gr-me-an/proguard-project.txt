@@ -1,0 +1,2 @@
+# To enable ProGuard in your project, edit project.properties.
+# Add project-specific ProGuard rules here.
